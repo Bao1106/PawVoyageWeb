@@ -1,0 +1,146 @@
+{
+    "index": 3,
+    "rows": [
+        "XXXXX",
+        "XXXXX",
+        "XXXXX",
+        "XXXXX"
+    ],
+    "bufferSlots": 6,
+    "pets": [
+        {
+            "cell": {
+                "x": 4,
+                "y": 2
+            },
+            "pet": "cow"
+        },
+        {
+            "cell": {
+                "x": 1,
+                "y": 1
+            },
+            "pet": "cow"
+        },
+        {
+            "cell": {
+                "x": 1,
+                "y": 0
+            },
+            "pet": "cow"
+        },
+        {
+            "cell": {
+                "x": 2,
+                "y": 3
+            },
+            "pet": "cow"
+        },
+        {
+            "cell": {
+                "x": 3,
+                "y": 2
+            },
+            "pet": "cow"
+        },
+        {
+            "cell": {
+                "x": 4,
+                "y": 0
+            },
+            "pet": "cow"
+        },
+        {
+            "cell": {
+                "x": 4,
+                "y": 3
+            },
+            "pet": "dog"
+        },
+        {
+            "cell": {
+                "x": 3,
+                "y": 0
+            },
+            "pet": "dog"
+        },
+        {
+            "cell": {
+                "x": 1,
+                "y": 2
+            },
+            "pet": "dog"
+        },
+        {
+            "cell": {
+                "x": 2,
+                "y": 0
+            },
+            "pet": "dog"
+        },
+        {
+            "cell": {
+                "x": 3,
+                "y": 1
+            },
+            "pet": "dog"
+        },
+        {
+            "cell": {
+                "x": 2,
+                "y": 2
+            },
+            "pet": "dog"
+        },
+        {
+            "cell": {
+                "x": 0,
+                "y": 1
+            },
+            "pet": "cat"
+        },
+        {
+            "cell": {
+                "x": 4,
+                "y": 1
+            },
+            "pet": "cat"
+        },
+        {
+            "cell": {
+                "x": 0,
+                "y": 3
+            },
+            "pet": "cat"
+        },
+        {
+            "cell": {
+                "x": 0,
+                "y": 0
+            },
+            "pet": "cat"
+        }
+    ],
+    "boats": [
+        {
+            "pet": "cat",
+            "seats": 4
+        },
+        {
+            "pet": "cow",
+            "seats": 4
+        },
+        {
+            "pet": "dog",
+            "seats": 4
+        },
+        {
+            "pet": "cow",
+            "seats": 2
+        },
+        {
+            "pet": "dog",
+            "seats": 2
+        }
+    ]
+}

@@ -1,0 +1,77 @@
+{
+    "index": 1,
+    "rows": [
+        "XXXX",
+        "XXXX",
+        "XXXX"
+    ],
+    "bufferSlots": 6,
+    "pets": [
+        {
+            "cell": {
+                "x": 1,
+                "y": 1
+            },
+            "pet": "cat"
+        },
+        {
+            "cell": {
+                "x": 3,
+                "y": 2
+            },
+            "pet": "cat"
+        },
+        {
+            "cell": {
+                "x": 3,
+                "y": 0
+            },
+            "pet": "cat"
+        },
+        {
+            "cell": {
+                "x": 3,
+                "y": 1
+            },
+            "pet": "cat"
+        },
+        {
+            "cell": {
+                "x": 2,
+                "y": 1
+            },
+            "pet": "pig"
+        },
+        {
+            "cell": {
+                "x": 2,
+                "y": 2
+            },
+            "pet": "pig"
+        },
+        {
+            "cell": {
+                "x": 2,
+                "y": 0
+            },
+            "pet": "pig"
+        },
+        {
+            "cell": {
+                "x": 0,
+                "y": 0
+            },
+            "pet": "pig"
+        }
+    ],
+    "boats": [
+        {
+            "pet": "pig",
+            "seats": 4
+        },
+        {
+            "pet": "cat",
+            "seats": 4
+        }
+    ]
+}

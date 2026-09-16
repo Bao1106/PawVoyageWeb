@@ -1,15 +1,26 @@
-body {
+html, body {
     margin: 0;
     padding: 0;
-    color: rgba(255, 255, 255, 0.87);
-    background-color: #0f0f0f;
+    background-color: #12507a;
+    overscroll-behavior: none;
 }
 
 #app {
     width: 100%;
-    height: 100vh;
+    /* dvh rather than vh: on mobile the browser address bar hides/shows, which
+       makes 100vh wrong by tens of pixels and causes scrolling plus a black strip. */
+    height: 100dvh;
     overflow: hidden;
     display: flex;
     justify-content: center;
     align-items: center;
+}
+
+canvas {
+    display: block;
+    /* Disable long-press menu and the blue tap highlight on mobile */
+    touch-action: none;
+    -webkit-tap-highlight-color: transparent;
+    -webkit-touch-callout: none;
+    user-select: none;
 }

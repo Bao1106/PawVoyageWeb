@@ -1,0 +1,110 @@
+{
+    "index": 4,
+    "rows": [
+        ".XXX.",
+        ".XXX.",
+        "XXXXX",
+        "XXXXX"
+    ],
+    "bufferSlots": 6,
+    "pets": [
+        {
+            "cell": {
+                "x": 2,
+                "y": 3
+            },
+            "pet": "pig"
+        },
+        {
+            "cell": {
+                "x": 0,
+                "y": 1
+            },
+            "pet": "pig"
+        },
+        {
+            "cell": {
+                "x": 0,
+                "y": 0
+            },
+            "pet": "pig"
+        },
+        {
+            "cell": {
+                "x": 2,
+                "y": 2
+            },
+            "pet": "pig"
+        },
+        {
+            "cell": {
+                "x": 3,
+                "y": 3
+            },
+            "pet": "monkey"
+        },
+        {
+            "cell": {
+                "x": 3,
+                "y": 0
+            },
+            "pet": "monkey"
+        },
+        {
+            "cell": {
+                "x": 2,
+                "y": 1
+            },
+            "pet": "monkey"
+        },
+        {
+            "cell": {
+                "x": 4,
+                "y": 1
+            },
+            "pet": "monkey"
+        },
+        {
+            "cell": {
+                "x": 3,
+                "y": 1
+            },
+            "pet": "dog"
+        },
+        {
+            "cell": {
+                "x": 1,
+                "y": 3
+            },
+            "pet": "dog"
+        },
+        {
+            "cell": {
+                "x": 1,
+                "y": 0
+            },
+            "pet": "dog"
+        },
+        {
+            "cell": {
+                "x": 1,
+                "y": 1
+            },
+            "pet": "dog"
+        }
+    ],
+    "boats": [
+        {
+            "pet": "pig",
+            "seats": 4
+        },
+        {
+            "pet": "monkey",
+            "seats": 4
+        },
+        {
+            "pet": "dog",
+            "seats": 4
+        }
+    ]
+}

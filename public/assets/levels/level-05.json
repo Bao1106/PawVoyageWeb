@@ -1,0 +1,110 @@
+{
+    "index": 5,
+    "rows": [
+        "XXX..",
+        "XXX..",
+        "XXXXX",
+        "XXXXX"
+    ],
+    "bufferSlots": 6,
+    "pets": [
+        {
+            "cell": {
+                "x": 2,
+                "y": 1
+            },
+            "pet": "monkey"
+        },
+        {
+            "cell": {
+                "x": 2,
+                "y": 0
+            },
+            "pet": "monkey"
+        },
+        {
+            "cell": {
+                "x": 0,
+                "y": 3
+            },
+            "pet": "monkey"
+        },
+        {
+            "cell": {
+                "x": 1,
+                "y": 1
+            },
+            "pet": "monkey"
+        },
+        {
+            "cell": {
+                "x": 4,
+                "y": 1
+            },
+            "pet": "chick"
+        },
+        {
+            "cell": {
+                "x": 1,
+                "y": 2
+            },
+            "pet": "chick"
+        },
+        {
+            "cell": {
+                "x": 0,
+                "y": 0
+            },
+            "pet": "chick"
+        },
+        {
+            "cell": {
+                "x": 1,
+                "y": 3
+            },
+            "pet": "chick"
+        },
+        {
+            "cell": {
+                "x": 2,
+                "y": 2
+            },
+            "pet": "tiger"
+        },
+        {
+            "cell": {
+                "x": 1,
+                "y": 0
+            },
+            "pet": "tiger"
+        },
+        {
+            "cell": {
+                "x": 0,
+                "y": 2
+            },
+            "pet": "tiger"
+        },
+        {
+            "cell": {
+                "x": 2,
+                "y": 3
+            },
+            "pet": "tiger"
+        }
+    ],
+    "boats": [
+        {
+            "pet": "chick",
+            "seats": 4
+        },
+        {
+            "pet": "monkey",
+            "seats": 4
+        },
+        {
+            "pet": "tiger",
+            "seats": 4
+        }
+    ]
+}
