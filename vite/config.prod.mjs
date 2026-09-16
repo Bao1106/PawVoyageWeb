@@ -17,7 +17,7 @@ const phasermsg = () => {
 }   
 
 export default defineConfig({
-    base: './',
+    base: 'PawVoyageWeb',
     logLevel: 'warning',
     build: {
         rollupOptions: {
